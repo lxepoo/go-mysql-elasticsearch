@@ -1,6 +1,6 @@
 FROM golang:alpine
 
-MAINTAINER siddontang
+MAINTAINER qijun@routercn.cn
 
 RUN apk add --no-cache tini mariadb-client
 
